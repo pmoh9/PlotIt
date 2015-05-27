@@ -1,0 +1,52 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PlotItGraph
+</name>
+</assembly>
+<members>
+<member name="F:PlotItGraph.Form1.Evaluator1">
+	<remarks>
+ Uses Evaluator library to evaluate a
+ mathematical expression as a string.
+ </remarks>
+</member><member name="M:PlotItGraph.Form1.Button1_Click(System.Object,System.EventArgs)">
+	<summary>
+ Button1 click event
+ Plots the graph using values returned
+ by the EvalFunctions class.
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+</member><member name="M:PlotItGraph.Form1.Samples_SelectedIndexChanged(System.Object,System.EventArgs)">
+	<summary>
+ Saved functions or samples
+ Can be directly saved and selected from
+ ListBox Samples.
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+</member><member name="M:PlotItGraph.Form1.Form1_Load(System.Object,System.EventArgs)">
+	<summary>
+ Call to Evaluator library as
+ a new object.
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+</member><member name="P:PlotItGraph.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:PlotItGraph.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:PlotItGraph.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

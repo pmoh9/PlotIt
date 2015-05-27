@@ -1,0 +1,11 @@
+c:\users\admin\documents\visual studio 2013\Projects\PlotItGraph\PlotItGraph\bin\Debug\PlotItGraph.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\PlotItGraph\PlotItGraph\bin\Debug\PlotItGraph.exe
+c:\users\admin\documents\visual studio 2013\Projects\PlotItGraph\PlotItGraph\bin\Debug\PlotItGraph.pdb
+c:\users\admin\documents\visual studio 2013\Projects\PlotItGraph\PlotItGraph\bin\Debug\PlotItGraph.xml
+c:\users\admin\documents\visual studio 2013\Projects\PlotItGraph\PlotItGraph\obj\Debug\PlotItGraph.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\PlotItGraph\PlotItGraph\obj\Debug\PlotItGraph.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\PlotItGraph\PlotItGraph\obj\Debug\PlotItGraph.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\PlotItGraph\PlotItGraph\obj\Debug\PlotItGraph.exe
+c:\users\admin\documents\visual studio 2013\Projects\PlotItGraph\PlotItGraph\obj\Debug\PlotItGraph.xml
+c:\users\admin\documents\visual studio 2013\Projects\PlotItGraph\PlotItGraph\obj\Debug\PlotItGraph.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\PlotItGraph\PlotItGraph\obj\Debug\PlotItGraph.vbprojResolveAssemblyReference.cache
